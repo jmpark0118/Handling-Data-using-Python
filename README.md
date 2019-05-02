@@ -4,6 +4,7 @@
 ## 파이썬으로 데이터 주무르기 
 ### 독특한 예제를 통해 배우는 데이터 분석 
 ### 저자 : 민형기  
+#### [https://github.com/PinkWink/DataScience]
 
 </br>
 </br>
